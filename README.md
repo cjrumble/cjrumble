@@ -12,4 +12,4 @@ I've lived in the San Francisco Bay Area & worked in tech for over 25 years.
 - 💬  &nbsp;&nbsp; Ask me about working in tech, career changes, learning new things, the Coder Dojo 🥷, & astronomy 🔭
 - 📥  &nbsp;&nbsp; How to reach via <a href="cjrumble@yahoo.com">email</a> or <a href="https://www.linkedin.com/in/cjrumble">LinkedIn</a>.
 - 😄  &nbsp;&nbsp; Pronouns: he/him
-- ⚡ &nbsp;&nbsp; Fun fact: I have a cats, 2 dogs, a dozeen fish, & 6 hens. (plus roaming families of squirrels, racoons & skunks)
+- ⚡ &nbsp;&nbsp; Fun fact: I have a cats, 2 dogs, a dozeen fish, & 6 hens. (plus roaming families of coyotes, squirrels, racoons & skunks)
