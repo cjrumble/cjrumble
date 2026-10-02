@@ -1,15 +1,50 @@
-### Hello, my name is Christopher Rumble but I go by Chris! 👋
+# Chris Rumble
 
-<!--
-**cjrumble/cjrumble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Quality Engineering Leader | Automation Architect | PMP-Certified Technical Delivery
 
-I've lived in the San Francisco Bay Area & worked in software technology for over 30 years.
+I build and lead reliable software delivery through **quality engineering, test automation, data quality, CI/CD, AI-assisted engineering, and cross-functional technical execution**.
 
-- 🖥  &nbsp;&nbsp; I am a certified <a href="https://www.credly.com/badges/f88902e0-8d75-4470-9ef5-aba7ec6c7765">PMI Project Management Professional</a> (Credential ID 4220567), with years of experience delivering software implementations, customizations & upgrades that add value for stakeholders.
-- 🌱  &nbsp;&nbsp; I program primarily in Python but also have experience in Java, C++, Javascript & Unix Shell Scripting.
-- 👯  &nbsp;&nbsp; I’ve been a key contributor to the successful implementation and delivery of ETL maps, Oracle BI reports & dashboards, Python & Javascript automation test frameworks, & CI/CD pipeline integrations.
-- ✨  &nbsp;&nbsp; I have formal training and experience in emerging AI products like GitHub Copilot, Claude Code, & <a href="https://github.com/bytedance/UI-TARS">UI-TARS</a>/<a hhref="https://github.com/bytedance/Dolphin">Dolphin</a>.
-- 💬  &nbsp;&nbsp; Feel free to reach out and ask me about working in tech, career changes, quality gates, being a coding mentor at Tri-valley Coder Dojo 🥷, & astronomy! 🔭
-- 📥  &nbsp;&nbsp; How to reach me via <a href="mailto:chris.j.rumble@gmail.com">email</a> or <a href="https://www.linkedin.com/in/cjrumble">LinkedIn</a>.
-- 😄  &nbsp;&nbsp; Pronouns: he/him
-- ⚡ &nbsp;&nbsp; Fun fact: I have a cat, two dogs, 9 hens, & a dozen fish. (plus roaming squirrels, racoons, opposums, & skunks who enjoy our gardens)
+I bring 30+ years in enterprise technology across software development, QA/quality engineering, project and program delivery, enterprise data, and customer-facing technology work. I am hands-on with Python and automation while also leading teams, releases, quality gates, and complex delivery initiatives.
+
+### What I build
+
+**Quality Engineering**
+- Python test automation, API testing, UI automation, Playwright, Selenium
+- Risk-based test strategy, quality gates, regression automation, release validation
+- CI/CD integration, test reporting, defect and quality metrics
+
+**Software Engineering**
+- Python, JavaScript/TypeScript, Java, C++
+- REST APIs, SQL, ETL/data validation, automation pipelines
+- GitHub Actions and cloud-oriented development workflows
+
+**AI-Enabled Engineering**
+- LLM-assisted development and code review
+- Structured AI outputs and automated evaluation
+- AI-assisted quality engineering and job-intelligence automation
+
+**Technical Delivery**
+- PMP-certified project management
+- Agile/Scrum, release management, risk management and stakeholder communication
+- Cross-functional engineering coordination and enterprise software delivery
+
+## Featured engineering work
+
+- **[Automated Job Search Pipeline](https://github.com/cjrumble/automated-job-search-pipeline)** — Python automation platform combining job-board APIs/scraping, Playwright, testing, CI/CD, scoring, AI-assisted job parsing and notifications.
+- **[Python OOP Course](https://github.com/cjrumble/PythonOOPCourse)** — hands-on Python object-oriented development, testing, architecture and AI-assisted curriculum development.
+- **[C++ Programming](https://github.com/cjrumble/CS14-IntroToProgrammingWithCPP)** — substantial C++ data-processing coursework demonstrating file I/O, data structures, algorithms and modular design.
+- **[Java OOP](https://github.com/cjrumble/CS19A-JavaObjectOrientedProgramming)** — Java object-oriented programming and application exercises.
+
+Additional portfolio projects are being developed around enterprise test automation, AI-assisted quality engineering, data-quality reconciliation and release readiness.
+
+## Engineering principles
+
+I care about software that is **testable, observable, maintainable and useful to the people who depend on it**. I prefer measurable quality improvements over test-count theater, automation that provides actionable feedback over brittle scripts, and delivery processes that make risks visible early.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/cjrumble)
+- [Email](mailto:chris.j.rumble@gmail.com)
+- [GitHub](https://github.com/cjrumble)
+
+PMP-certified · Quality Engineering · Software Testing · Automation · Python · AI-assisted Engineering · Technical Project Delivery
