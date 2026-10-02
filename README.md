@@ -35,7 +35,7 @@ I bring 30+ years in enterprise technology across software development, QA/quali
 - **[C++ Programming](https://github.com/cjrumble/CS14-IntroToProgrammingWithCPP)** — substantial C++ data-processing coursework demonstrating file I/O, data structures, algorithms and modular design.
 - **[Java OOP](https://github.com/cjrumble/CS19A-JavaObjectOrientedProgramming)** — Java object-oriented programming and application exercises.
 
-Additional portfolio projects are being developed around enterprise test automation, AI-assisted quality engineering, data-quality reconciliation and release readiness.
+Additional portfolio projects now include **[Enterprise Quality Engineering Platform](https://github.com/cjrumble/enterprise-quality-engineering-platform)**, **[AI-Assisted Quality Engineering](https://github.com/cjrumble/ai-assisted-quality-engineering)**, **[Data Quality & Reconciliation Toolkit](https://github.com/cjrumble/data-quality-reconciliation-toolkit)**, and **[Release Readiness Dashboard](https://github.com/cjrumble/release-readiness-dashboard)**.
 
 ## Engineering principles
 
